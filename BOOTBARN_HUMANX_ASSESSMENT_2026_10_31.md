@@ -128,11 +128,26 @@ server had:
   as the hCaptcha work.
 - Session fingerprints across collector + dvp + ift correlate server-side.
 
-**Honest note:** we did **not** try a clean-launch real-Chrome here (the
-hCaptcha lesson applies) — this run used Playwright headless, which HUMAN
-reliably blocks. A clean-launch session would likely pass the first gate
-(same ladder as hCaptcha), but the point of this writeup is the **architecture
-and data**, which we captured regardless.
+### 6b. Clean-launch result (the decision flips)
+
+Same as hCaptcha: launching **real Chrome manually** (fresh profile, no
+automation flags) changes the verdict. Observed:
+
+| | Playwright headless | **Clean-launch real Chrome** |
+|---|---|---|
+| Page | "Access to this page has been denied" block | **Full storefront** ("Cowboy Boots…", 535 links, 71 imgs) |
+| HUMAN traffic | client → ift → collector → dvp → captcha.js | client → ift → collector (same flow, **no captcha**) |
+| PX cookies | `_pxhd`, `_pxvid`, `_px3`, `pxcts` | **same set** |
+| Signifyd | loads | loads (`window.signifyd` true) |
+| `navigator.webdriver` | true | false |
+
+**Conclusion:** the HUMAN server's "automation" verdict is driven by the
+**launch/process signature** (automation flags, headless UA, software GL),
+*not* by anything the client module reveals differently. The signal flow is
+identical; the score changes because the session *is* different at the
+transport/launch layer. Same ladder as hCaptcha: a clean launch clears the
+first gate; the real defense is the server-side scoring + (when triggered) the
+captcha challenge.
 
 ## 7. How it compares (cross-vendor)
 
