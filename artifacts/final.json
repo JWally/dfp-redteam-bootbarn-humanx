@@ -1,0 +1,98 @@
+{
+  "state": {
+    "title": "Access to this page has been denied.",
+    "h1": "Please verify you are a human",
+    "bodyStart": "Please verify you are a human\n\nAccess to this page has been denied because we believe you are using automation tools to browse the website.\n\nThis may happen as a result of the following:\n\nJavascript i",
+    "pxVid": "",
+    "pxUuid": "d2787c4e-d525-11f1-9d52-9751826aa0a4",
+    "pxApp": "PXJeSgWPZK",
+    "cookies": [
+      "_pxhd",
+      "_pxvid",
+      "_px3",
+      "pxcts"
+    ]
+  },
+  "hosts": [
+    "client.px-cloud.net",
+    "ift.px-cloud.net",
+    "collector-pxjesgwpzk.px-cloud.net",
+    "captcha.px-cdn.net",
+    "ri.px-cloud.net",
+    "collector-pxjesgwpzk.px-client.net",
+    "fst-ec.px-cloud.net",
+    "dvp.px-cloud.net"
+  ],
+  "pxreqs": [
+    [
+      "GET",
+      "client.px-cloud.net",
+      "https://client.px-cloud.net/PXJeSgWPZK/main.min.js"
+    ],
+    [
+      "GET",
+      "ift.px-cloud.net",
+      "https://ift.px-cloud.net/ns"
+    ],
+    [
+      "POST",
+      "collector-pxjesgwpzk.px-cloud.net",
+      "https://collector-pxjesgwpzk.px-cloud.net/api/v2/collector"
+    ],
+    [
+      "GET",
+      "captcha.px-cdn.net",
+      "https://captcha.px-cdn.net/PXJeSgWPZK/captcha.js"
+    ],
+    [
+      "GET",
+      "ri.px-cloud.net",
+      "https://ri.px-cloud.net/index.js"
+    ],
+    [
+      "GET",
+      "collector-pxjesgwpzk.px-client.net",
+      "https://collector-pxjesgwpzk.px-client.net/b/g"
+    ],
+    [
+      "GET",
+      "ift.px-cloud.net",
+      "https://ift.px-cloud.net/ns"
+    ],
+    [
+      "POST",
+      "collector-pxjesgwpzk.px-cloud.net",
+      "https://collector-pxjesgwpzk.px-cloud.net/assets/js/bundle"
+    ],
+    [
+      "HEAD",
+      "captcha.px-cdn.net",
+      "https://captcha.px-cdn.net/PXJeSgWPZK/captcha.js"
+    ],
+    [
+      "HEAD",
+      "client.px-cloud.net",
+      "https://client.px-cloud.net/PXJeSgWPZK/main.min.js"
+    ],
+    [
+      "POST",
+      "collector-pxjesgwpzk.px-cloud.net",
+      "https://collector-pxjesgwpzk.px-cloud.net/assets/js/bundle"
+    ],
+    [
+      "POST",
+      "collector-pxjesgwpzk.px-cloud.net",
+      "https://collector-pxjesgwpzk.px-cloud.net/assets/js/bundle"
+    ],
+    [
+      "GET",
+      "fst-ec.px-cloud.net",
+      "https://fst-ec.px-cloud.net/"
+    ],
+    [
+      "POST",
+      "dvp.px-cloud.net",
+      "https://dvp.px-cloud.net/v"
+    ]
+  ]
+}
