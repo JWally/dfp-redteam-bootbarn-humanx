@@ -1,0 +1,49 @@
+{
+  "target": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+  "finalStatus": 200,
+  "challengePage": false,
+  "jsResponseCount": 221,
+  "pxJsResponses": [
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+      "status": 200,
+      "bytes": 108526
+    }
+  ],
+  "xhrPosts": [],
+  "bundles": [
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/init.js",
+      "bytes": 232430,
+      "appId": "8FCGYgk4",
+      "has_pxAppId": true,
+      "has_pxhd": true,
+      "has_collector": true,
+      "has_dispatcher": false,
+      "big_string_array_count": 0,
+      "hex_identifier_count": 0,
+      "has_eval": false,
+      "has_Function_ctor": true,
+      "dumpedTo": "/home/justin/Dev/bots-human/results/bundle-8FCGYgk4-init.js"
+    }
+  ],
+  "probe": {
+    "pxGlobals": {
+      "_pxParam3": "0",
+      "_pxParam4": "0",
+      "_pxParam6": "019e5b4e-b7cf-7f02-bc4c-ff982db911bb",
+      "_pxAppId": "PX8FCGYgk4",
+      "PX8FCGYgk4": "{\"Events\":{\"channels\":{\"risk\":[{\"once\":false}]}},\"ClientUuid\":\"c77ae560-57a0-11f1-83a9-99455fed64bb\"}",
+      "PX": "{\"Events\":{\"channels\":{\"risk\":[{\"once\":false}]}},\"ClientUuid\":\"c77ae560-57a0-11f1-83a9-99455fed64bb\"}"
+    },
+    "cookies": [
+      "_pxhd=JPPFr7m0eiXjYg1RwfjY/WNdA1WzJdmVJWEU66u4MUMFwwCz/OXPdnspLcPglZ4iGglvV1nUeodarfCo9oUM0w==:riSLtJgGWv3atk/0S2D1BzJUMvixCLV3zA6hhMNLIAX9oVgWQcjlIXw/VLrLF01GpdLPoVF824q3RkF/ya5Qys6M8KI7dGPPpdKvNkJ9Wuc=",
+      "_pxvid=c66fcbb4-57a0-11f1-9f9c-13be997d5bbd",
+      "_px2=eyJ1IjoiYzc3YWU1NjAtNTdhMC0xMWYxLTgzYTktOTk0NTVmZWQ2NGJiIiwidiI6ImM2NmZjYmI0LTU3YTAtMTFmMS05ZjljLTEzYmU5OTdkNWJiZCIsInQiOjE3Nzk2NDg2NDg4MTEsImgiOiI3NDRiOTkzNTU2MzZhMTI4NGQxODg4NDI3NzU3YTI2NDg5OTFhOWRiOGJiYTM3YjlmMjk1NTQxMjdmMDAwYjg3In0=",
+      "pxcts=mj8ZLssCcKNVkYKKTNAUWtu8l4sC9mwqU6RIQGZw0-g=:qpcT6/YF-FDVDFTzto-ROO/AV9/s77g4e4ifZRdjTmbls5cCpia4hCJxdbcrQ3e0Ms879k99g15wxxfY5YBE-jfwT82af8I70WLFu/gp7nYDJaldxDLT9LubzpAAX7TFkMM74-jE-zhgvYnp2/vXq3WBHDNzjnao7FOnQnr/Ue/Bl7LhLGg8Q/Pt0YpSehVh",
+      "_pxde=6be9d1f33df3e1e0c19cc00023baba98b7447443bbf495b4ed9e4770e2cea0ff:eyJ0aW1lc3RhbXAiOjE3Nzk2NDgzNTU2MTMsImZfa2IiOjAsImlwY19pZCI6W119"
+    ],
+    "captchaWidget": false
+  },
+  "capturedAt": "2026-05-24T18:45:56.416Z"
+}

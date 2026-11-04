@@ -1,0 +1,1338 @@
+{
+  "signalCount": 189,
+  "signals": [
+    {
+      "hash": "AW1zJ0cBdhc=",
+      "count": 12,
+      "samples": [
+        "0",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "hash": "JnZUfGAXWEg=",
+      "count": 11,
+      "samples": [
+        "65507220-57a4-11f1-9db1-f76baf(",
+        "65507220-57a4-11f1-9db1-f76baf6647e3"
+      ]
+    },
+    {
+      "hash": "fWlPIzsJTBE=",
+      "count": 11,
+      "samples": [
+        "2686",
+        "3490",
+        "3685"
+      ]
+    },
+    {
+      "hash": "AhIwWEd1PWo=",
+      "count": 11,
+      "samples": [
+        "1779649902020",
+        "1779649902842",
+        "1779649903592"
+      ]
+    },
+    {
+      "hash": "RlZ0HAM2dyo=",
+      "count": 10,
+      "samples": [
+        "VXZSXhGDhtyhjUuw6Red2KFVRL_4fIvHJ-D22oy1xRa-4FJeZDzMoBspW4HD2Dn-5fI0w6Ybj8McDQSZGL7RiPvPIEpR8tZLroRA...",
+        "VXZSXhGDhtyhjUuw6Red2KFVRL_4fIvHJ-D22oy1xRa-4FJeZDzMoBspW4HD2Dn*N/c·;&#·sR··w······'·_·#···;··+··3G·...",
+        "VXZSXhGDhtyhjUuw6Red2KFVRL_4fIvHJ-D22oy1xRa-4FJeZDzMoBspW4HD2D+BN/c·;&#·sR··w······'·_·#···;··+··3G·..."
+      ]
+    },
+    {
+      "hash": "HUlvQ1guaHk=",
+      "count": 8,
+      "samples": [
+        "[\\\"TypeError: Cannot read properties of null at pz at HTMLDocument.querySelectorAll at eval , <anony...",
+        "[\\\"TypeError: Cannot read properties of null at pz at HTMLDocument.querySelectorAll at CE.<anonymous..."
+      ]
+    },
+    {
+      "hash": "bHgeciobH0U=",
+      "count": 2,
+      "samples": [
+        "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagshi..."
+      ]
+    },
+    {
+      "hash": "eytJYT5MTFQ=",
+      "count": 2,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "InJQeGcTUEI=",
+      "count": 2,
+      "samples": [
+        "Linux x86_64"
+      ]
+    },
+    {
+      "hash": "M2MBKXUPDB8=",
+      "count": 2,
+      "samples": [
+        "TypeError: Cannot read properties of null (reading '0')\\n    at pz (https://www.bloomberg.com/8FCGYg..."
+      ]
+    },
+    {
+      "hash": "cyNBaTZDQl4=",
+      "count": 2,
+      "samples": [
+        "534.2999992370605"
+      ]
+    },
+    {
+      "hash": "STU7fw9TOUQ=",
+      "count": 2,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "dEAGCjIhADk=",
+      "count": 1,
+      "samples": [
+        "1779649901214"
+      ]
+    },
+    {
+      "hash": "EX1jN1QeZg0=",
+      "count": 1,
+      "samples": [
+        "{\"0lE7\":\"c3nJFA2\"}"
+      ]
+    },
+    {
+      "hash": "R3c1PQEVMA4=",
+      "count": 1,
+      "samples": [
+        "10652506931195586737"
+      ]
+    },
+    {
+      "hash": "Dz99dUpefUM=",
+      "count": 1,
+      "samples": [
+        "4931"
+      ]
+    },
+    {
+      "hash": "ZHAWeiETE04=",
+      "count": 1,
+      "samples": [
+        "912"
+      ]
+    },
+    {
+      "hash": "R3c1PQIUMAs=",
+      "count": 1,
+      "samples": [
+        "{\"m\":false}"
+      ]
+    },
+    {
+      "hash": "TTk/cwtZOkk=",
+      "count": 1,
+      "samples": [
+        "49e5084e"
+      ]
+    },
+    {
+      "hash": "KxsZEW16GSE=",
+      "count": 1,
+      "samples": [
+        "7c5f9724"
+      ]
+    },
+    {
+      "hash": "Hm4sZFsJKF4=",
+      "count": 1,
+      "samples": [
+        "65d826e0"
+      ]
+    },
+    {
+      "hash": "dWFHKzAAShg=",
+      "count": 1,
+      "samples": [
+        "a9269e00"
+      ]
+    },
+    {
+      "hash": "R3c1PQEVOA8=",
+      "count": 1,
+      "samples": [
+        "50a5ec55"
+      ]
+    },
+    {
+      "hash": "MDxCNnVfQQY=",
+      "count": 1,
+      "samples": [
+        "73a0fb26"
+      ]
+    },
+    {
+      "hash": "YGwSZiUPEVA=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "Hw9tBVpsbjI=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "cgIASDdhA3w=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "M2MBKXYAAhw=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "Czt5cU5Yeks=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "eEQKDj0nCTU=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "FwdlDVJkZz8=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "YGwSZiUME1A=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "P28NJXkPCx4=",
+      "count": 1,
+      "samples": [
+        "64556c77"
+      ]
+    },
+    {
+      "hash": "U0MhSRUjJnM=",
+      "count": 1,
+      "samples": [
+        ""
+      ]
+    },
+    {
+      "hash": "LVkfU2g+HWA=",
+      "count": 1,
+      "samples": [
+        "10207b2f"
+      ]
+    },
+    {
+      "hash": "XGhuYhoFb1k=",
+      "count": 1,
+      "samples": [
+        "10207b2f"
+      ]
+    },
+    {
+      "hash": "N2cFLXIGBhs=",
+      "count": 1,
+      "samples": [
+        "90e65465"
+      ]
+    },
+    {
+      "hash": "ZHAWeiIWFk4=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "bHgecikZGUY=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "UBxiVhZ+bmU=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "FwdlDVFnYTg=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "aRVbHyx1XC0=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "OARKTn1kTXs=",
+      "count": 1,
+      "samples": [
+        "d4acbe702b2ce9d7b185cbf0062c8dea"
+      ]
+    },
+    {
+      "hash": "bRlfEyh4Uic=",
+      "count": 1,
+      "samples": [
+        "null"
+      ]
+    },
+    {
+      "hash": "Hm4sZFsJL1Y=",
+      "count": 1,
+      "samples": [
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.3..."
+      ]
+    },
+    {
+      "hash": "HCguIllPLxk=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "cgIASDRvDH0=",
+      "count": 1,
+      "samples": [
+        "90e65465"
+      ]
+    },
+    {
+      "hash": "Slp4EA86dCU=",
+      "count": 1,
+      "samples": [
+        "2"
+      ]
+    },
+    {
+      "hash": "MDxCNnZcRQ0=",
+      "count": 1,
+      "samples": [
+        "69364535"
+      ]
+    },
+    {
+      "hash": "Z1dVXSE3VWo=",
+      "count": 1,
+      "samples": [
+        "4294967296"
+      ]
+    },
+    {
+      "hash": "Xi5sJBhDahU=",
+      "count": 1,
+      "samples": [
+        "100472531"
+      ]
+    },
+    {
+      "hash": "P28NJXkCDBc=",
+      "count": 1,
+      "samples": [
+        "Sun May 24 2026 14:11:41 GMT-0500 (Central Daylight Time)"
+      ]
+    },
+    {
+      "hash": "QAxyRgZsdXI=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "eytJYT1IRFc=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "Q3MxOQUeNQk=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "Dh48VEt4OmM=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "YGwSZiUJH1Q=",
+      "count": 1,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "O2sJIX0ICxs=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "GUVrT18janQ=",
+      "count": 1,
+      "samples": [
+        "visible"
+      ]
+    },
+    {
+      "hash": "OkpIAH8sRDU=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "NkZEDHAgSTk=",
+      "count": 1,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "fEgOAjksDjA=",
+      "count": 1,
+      "samples": [
+        "1374"
+      ]
+    },
+    {
+      "hash": "Dz99dUpZeEM=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "YjIQOCRREAs=",
+      "count": 1,
+      "samples": [
+        "1031"
+      ]
+    },
+    {
+      "hash": "Cho4UEx3O2U=",
+      "count": 1,
+      "samples": [
+        "missing"
+      ]
+    },
+    {
+      "hash": "RTE3ewBWN00=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "TTk/cwtZPkE=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "JxcVHWF3FCc=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "a1tZUS06WGU=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "BXF3O0ARdwk=",
+      "count": 1,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "UBxiVhV9ZGU=",
+      "count": 1,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "LDheMmpUUgE=",
+      "count": 1,
+      "samples": [
+        "14"
+      ]
+    },
+    {
+      "hash": "FmYkbFALIlk=",
+      "count": 1,
+      "samples": [
+        "1"
+      ]
+    },
+    {
+      "hash": "KxsZEW14HyE=",
+      "count": 1,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "Xi5sJBhPaR8=",
+      "count": 1,
+      "samples": [
+        "9"
+      ]
+    },
+    {
+      "hash": "LDheMmpVXwM=",
+      "count": 1,
+      "samples": [
+        "1366"
+      ]
+    },
+    {
+      "hash": "GmooYFwIJVM=",
+      "count": 1,
+      "samples": [
+        "900"
+      ]
+    },
+    {
+      "hash": "ICxSJmVIVRU=",
+      "count": 1,
+      "samples": [
+        "1366"
+      ]
+    },
+    {
+      "hash": "JnZUfGMSU0Y=",
+      "count": 1,
+      "samples": [
+        "900"
+      ]
+    },
+    {
+      "hash": "GUVrT1wjZno=",
+      "count": 1,
+      "samples": [
+        "1366X900"
+      ]
+    },
+    {
+      "hash": "dydFbTJCQFw=",
+      "count": 1,
+      "samples": [
+        "24"
+      ]
+    },
+    {
+      "hash": "PSkPY3tPAlE=",
+      "count": 1,
+      "samples": [
+        "24"
+      ]
+    },
+    {
+      "hash": "SBR6Xg13d2o=",
+      "count": 1,
+      "samples": [
+        "1996"
+      ]
+    },
+    {
+      "hash": "GUVrT1wmZno=",
+      "count": 1,
+      "samples": [
+        "42"
+      ]
+    },
+    {
+      "hash": "fg4MRDhvAHI=",
+      "count": 1,
+      "samples": [
+        "1366"
+      ]
+    },
+    {
+      "hash": "WipoIB9LbBM=",
+      "count": 1,
+      "samples": [
+        "900"
+      ]
+    },
+    {
+      "hash": "ajoYMC9bGQE=",
+      "count": 1,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "eytJYT5KSFQ=",
+      "count": 1,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "Czt5cU1bf0A=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "LDheMmldXAk=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "Dz99dUpYf08=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "WGRqbh4HZlg=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "egoIQD9tBHY=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "PSkPY3hJC1U=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "ZRFXGyBxUyw=",
+      "count": 1,
+      "samples": [
+        "TypeError: Cannot read properties of undefined (reading 'width')"
+      ]
+    },
+    {
+      "hash": "VGBmahEAYl4=",
+      "count": 1,
+      "samples": [
+        "webkit"
+      ]
+    },
+    {
+      "hash": "a1tZUS47XWQ=",
+      "count": 1,
+      "samples": [
+        "33"
+      ]
+    },
+    {
+      "hash": "VGBmahEAYlA=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "AzNxeUZTcE4=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "N2cFLXIHBxw=",
+      "count": 1,
+      "samples": [
+        "130db"
+      ]
+    },
+    {
+      "hash": "U0MhSRYmInI=",
+      "count": 1,
+      "samples": [
+        "[\"PDF Viewer\",\"Chrome PDF Viewer\",\"Chromium PDF Viewer\",\"Microsoft Edge PDF Viewer\",\"WebKit built-in..."
+      ]
+    },
+    {
+      "hash": "KDRaPm1TVwo=",
+      "count": 1,
+      "samples": [
+        "5"
+      ]
+    },
+    {
+      "hash": "N2cFLXEHBxk=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "OkpIAH8sTDo=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "MV0DV3c7DmE=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "N2cFLXEKCBk=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "RBB2WgJwe2s=",
+      "count": 1,
+      "samples": [
+        "en-US"
+      ]
+    },
+    {
+      "hash": "XQkvAxtqIjA=",
+      "count": 1,
+      "samples": [
+        "[\"en-US\",\"en\"]"
+      ]
+    },
+    {
+      "hash": "eWVLLz8HSxk=",
+      "count": 1,
+      "samples": [
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.3..."
+      ]
+    },
+    {
+      "hash": "AzNxeUZWd0w=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "TTk/cwtfM0E=",
+      "count": 1,
+      "samples": [
+        "300"
+      ]
+    },
+    {
+      "hash": "eEQKDj4nDT0=",
+      "count": 1,
+      "samples": [
+        "32"
+      ]
+    },
+    {
+      "hash": "Lx8dFWl8HSA=",
+      "count": 1,
+      "samples": [
+        "2"
+      ]
+    },
+    {
+      "hash": "fEgOAjktAzE=",
+      "count": 1,
+      "samples": [
+        "Gecko"
+      ]
+    },
+    {
+      "hash": "bHgecioUG0g=",
+      "count": 1,
+      "samples": [
+        "20030107"
+      ]
+    },
+    {
+      "hash": "W0spQR4tLXc=",
+      "count": 1,
+      "samples": [
+        "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "hash": "Q3MxOQUeNgI=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "EmIgaFQDI14=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "a1tZUS4+WWc=",
+      "count": 1,
+      "samples": [
+        "2"
+      ]
+    },
+    {
+      "hash": "VGBmahINYVk=",
+      "count": 1,
+      "samples": [
+        "Netscape"
+      ]
+    },
+    {
+      "hash": "P28NJXkODx4=",
+      "count": 1,
+      "samples": [
+        "Mozilla"
+      ]
+    },
+    {
+      "hash": "ICxSJmZPUBA=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "eWVLLzwCShw=",
+      "count": 1,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "YQ1TBydrUTc=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "NABGSnJjS3s=",
+      "count": 1,
+      "samples": [
+        "10"
+      ]
+    },
+    {
+      "hash": "WQUrDx9lKDw=",
+      "count": 1,
+      "samples": [
+        "4g"
+      ]
+    },
+    {
+      "hash": "GCQqLl5JKBs=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "UT0jdxRZJkU=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "WQUrDxxmKDw=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "eEQKDj0kDzo=",
+      "count": 1,
+      "samples": [
+        "x86"
+      ]
+    },
+    {
+      "hash": "UiJgKBdCZR0=",
+      "count": 1,
+      "samples": [
+        "64"
+      ]
+    },
+    {
+      "hash": "XGhuYhkIa1g=",
+      "count": 1,
+      "samples": [
+        "[{\"brand\":\"Chromium\",\"version\":\"148\"},{\"brand\":\"Google Chrome\",\"version\":\"148\"},{\"brand\":\"Not/A)Bran..."
+      ]
+    },
+    {
+      "hash": "OkpIAH8qTTs=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "O2sJIX4LDRM=",
+      "count": 1,
+      "samples": [
+        ""
+      ]
+    },
+    {
+      "hash": "KnpYcG8aXEM=",
+      "count": 1,
+      "samples": [
+        "Linux"
+      ]
+    },
+    {
+      "hash": "NABGSnFgQno=",
+      "count": 1,
+      "samples": [
+        ""
+      ]
+    },
+    {
+      "hash": "WGRqbh0Ebl8=",
+      "count": 1,
+      "samples": [
+        "148.0.7778.96"
+      ]
+    },
+    {
+      "hash": "UBxiVhV8Y2w=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "UBxiVhV8Y20=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "ICxSJmVKURY=",
+      "count": 1,
+      "samples": [
+        "9f4ad436c590825b763613cc0227fb6e"
+      ]
+    },
+    {
+      "hash": "ZRFXGyByWiE=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "T389NQkcMAI=",
+      "count": 1,
+      "samples": [
+        "12"
+      ]
+    },
+    {
+      "hash": "cHwCdjUfAEY=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "UBxiVhV6ZGQ=",
+      "count": 1,
+      "samples": [
+        "109|66|66|70|80"
+      ]
+    },
+    {
+      "hash": "S3s5MQ0ZPAY=",
+      "count": 1,
+      "samples": [
+        "331"
+      ]
+    },
+    {
+      "hash": "eytJYT1HT1s=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "MV0DV3c+Bmc=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "V0clTRIiIn4=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "FmYkbFMHI18=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "P28NJXoLChM=",
+      "count": 1,
+      "samples": [
+        "1"
+      ]
+    },
+    {
+      "hash": "Bzd1fUFUcEY=",
+      "count": 1,
+      "samples": [
+        "1"
+      ]
+    },
+    {
+      "hash": "Lx8dFWp4ESY=",
+      "count": 1,
+      "samples": [
+        ""
+      ]
+    },
+    {
+      "hash": "YGwSZiYBH1U=",
+      "count": 1,
+      "samples": [
+        "[\"loadTimes\",\"csi\",\"app\"]"
+      ]
+    },
+    {
+      "hash": "GUVrT1wmZnk=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "GCQqLl5ELBQ=",
+      "count": 1,
+      "samples": [
+        "2"
+      ]
+    },
+    {
+      "hash": "Dz99dUpff08=",
+      "count": 1,
+      "samples": [
+        "{}"
+      ]
+    },
+    {
+      "hash": "UBxiVhV8bmA=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "ICxSJmVMURI=",
+      "count": 1,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "AEwyBkUsMDU=",
+      "count": 1,
+      "samples": [
+        "ea6152e6"
+      ]
+    },
+    {
+      "hash": "N2cFLXIDABc=",
+      "count": 1,
+      "samples": [
+        "549"
+      ]
+    },
+    {
+      "hash": "ZHAWeiEREkw=",
+      "count": 1,
+      "samples": [
+        "343"
+      ]
+    },
+    {
+      "hash": "Hw9tBVppaDQ=",
+      "count": 1,
+      "samples": [
+        "mouseover"
+      ]
+    },
+    {
+      "hash": "TTk/cwtaM0g=",
+      "count": 1,
+      "samples": [
+        "1677"
+      ]
+    },
+    {
+      "hash": "eytJYT1HRFQ=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "AzNxeUZScko=",
+      "count": 1,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "RlZ0HAA1dCw=",
+      "count": 1,
+      "samples": [
+        "#bb-that>NAV>DIV:nth-child(2)"
+      ]
+    },
+    {
+      "hash": "Hw9tBVptaDU=",
+      "count": 1,
+      "samples": [
+        "eyJ1IjoiNjU1MDcyMjAtNTdhNC0xMWYxLTlkYjEtZjc2YmFmNjY0N2UzIiwidiI6IjY0NDhiNTE1LTU3YTQtMTFmMS1iN2VjLWNk..."
+      ]
+    },
+    {
+      "hash": "FmYkbFMEJF4=",
+      "count": 1,
+      "samples": [
+        "{\"PX12738\":2448,\"PX12739\":0,\"PX12740\":0,\"PX12741\":-1}"
+      ]
+    },
+    {
+      "hash": "JVEXW2AyEWE=",
+      "count": 1,
+      "samples": [
+        "{\"PX12737\":5}"
+      ]
+    },
+    {
+      "hash": "a1tZUS44WGc=",
+      "count": 1,
+      "samples": [
+        "{\"PX12737\":0}"
+      ]
+    },
+    {
+      "hash": "BhY0XEB7Nms=",
+      "count": 1,
+      "samples": [
+        "65507220-57a4-11f1-9db1-f76baf6·"
+      ]
+    },
+    {
+      "hash": "YQ1TByRtUTU=",
+      "count": 1,
+      "samples": [
+        "729f8d4f7f8d25bac3eeb8224346a4f9"
+      ]
+    },
+    {
+      "hash": "Dh48VEh4PGQ=",
+      "count": 1,
+      "samples": [
+        "981f7d41abcd4453540e85554ef78612"
+      ]
+    },
+    {
+      "hash": "EwNhCVZkbTk=",
+      "count": 1,
+      "samples": [
+        "WebKit"
+      ]
+    },
+    {
+      "hash": "S3s5MQ0bOgQ=",
+      "count": 1,
+      "samples": [
+        "WebKit WebGL"
+      ]
+    },
+    {
+      "hash": "Dz99dUpae0U=",
+      "count": 1,
+      "samples": [
+        "WebGL 1.0 (OpenGL ES 2.0 Chromium)"
+      ]
+    },
+    {
+      "hash": "eWVLLz8FTRs=",
+      "count": 1,
+      "samples": [
+        "[\"ANGLE_instanced_arrays\",\"EXT_blend_minmax\",\"EXT_clip_control\",\"EXT_color_buffer_half_float\",\"EXT_d..."
+      ]
+    },
+    {
+      "hash": "S3s5MQ4dOQE=",
+      "count": 1,
+      "samples": [
+        "Google Inc. (Google)"
+      ]
+    },
+    {
+      "hash": "BhY0XEB3NGs=",
+      "count": 1,
+      "samples": [
+        "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)"
+      ]
+    },
+    {
+      "hash": "Hw9tBVlvazM=",
+      "count": 1,
+      "samples": [
+        "WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)"
+      ]
+    },
+    {
+      "hash": "VGBmahEAY1s=",
+      "count": 1,
+      "samples": [
+        "6d898cfee56605c531efc46a280e01c0"
+      ]
+    },
+    {
+      "hash": "ajoYMC9aHQA=",
+      "count": 1,
+      "samples": [
+        "9b8e836c80256218616267231fbeb317"
+      ]
+    },
+    {
+      "hash": "BFA2GkI8MS8=",
+      "count": 1,
+      "samples": [
+        "38255aac7896f329f7d6c6d9da745d30"
+      ]
+    },
+    {
+      "hash": "bRlfEyh5XSM=",
+      "count": 1,
+      "samples": [
+        "4dd3d12110d9b29c7616fcb12f0da217"
+      ]
+    },
+    {
+      "hash": "TBh+Ugl6eGQ=",
+      "count": 1,
+      "samples": [
+        "[63,63,63,63,0,191,191,191,191,191,191,191,191,191,191,191,191,191,191,128,128,128,128,128,128,128]"
+      ]
+    },
+    {
+      "hash": "ajoYMCxbGgU=",
+      "count": 1,
+      "samples": [
+        "126.86972438948578"
+      ]
+    },
+    {
+      "hash": "WQUrDxxhLjQ=",
+      "count": 1,
+      "samples": [
+        "2dce8c55c6897067fdf0c76ddf6e6d50"
+      ]
+    },
+    {
+      "hash": "N2cFLXIBBRs=",
+      "count": 1,
+      "samples": [
+        "c4fc84145dda8653ee2e130082e267ad"
+      ]
+    },
+    {
+      "hash": "Hm4sZFsNK1Q=",
+      "count": 1,
+      "samples": [
+        "016beb17dd57a6e446b36265284c0c9c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "dfp-redteam-human-px",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "HUMAN Security (PerimeterX) block-page assessment: string table decoded, plaintext collector telemetry, WebGL shader fingerprint, block-page decision inputs (authorized, observed/local, 2026-10-31)",
+  "scripts": { "probe": "node scripts/bb-probe.mjs", "boundary": "node scripts/bb-px-boundary.mjs", "final": "node scripts/bb-final.mjs" },
+  "dependencies": { "playwright": "^1" }
+}

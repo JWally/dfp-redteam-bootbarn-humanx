@@ -1,0 +1,2257 @@
+{
+  "total": 189,
+  "withMatches": 75,
+  "entries": [
+    {
+      "hash": "AW1zJ0cBdhc=",
+      "count": 12,
+      "found": true,
+      "bundleOffset": 108321,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "0",
+        "2",
+        "3"
+      ],
+      "context": "yE(t,n){n[\"AW1zJ0cBdhc=\"]=yz++,n[\"fWlPIz"
+    },
+    {
+      "hash": "JnZUfGAXWEg=",
+      "count": 11,
+      "found": true,
+      "bundleOffset": 210451,
+      "propsInContext": [
+        "Date"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "65507220-57a4-11f1-9db1-f76baf(",
+        "65507220-57a4-11f1-9db1-f76baf6647e3"
+      ],
+      "context": "ime(),o.d[\"JnZUfGAXWEg=\"]=qP(),o.d[kf(11"
+    },
+    {
+      "hash": "fWlPIzsJTBE=",
+      "count": 11,
+      "found": true,
+      "bundleOffset": 108344,
+      "propsInContext": [
+        "Date"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "2686",
+        "3490",
+        "3685"
+      ],
+      "context": "\"]=yz++,n[\"fWlPIzsJTBE=\"]=te()||lX(),yN("
+    },
+    {
+      "hash": "AhIwWEd1PWo=",
+      "count": 11,
+      "found": true,
+      "bundleOffset": 210410,
+      "propsInContext": [
+        "Date"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "1779649902020",
+        "1779649902842",
+        "1779649903592"
+      ],
+      "context": "tinue}o.d[\"AhIwWEd1PWo=\"]=(new Date).get"
+    },
+    {
+      "hash": "RlZ0HAM2dyo=",
+      "count": 10,
+      "found": false,
+      "samples": [
+        "VXZSXhGDhtyhjUuw6Red2KFVRL_4fIvHJ-D22oy1xRa-4FJeZDzMoBspW4HD2Dn-5fI0w6Ybj8McDQSZGL7RiPvPIEpR8tZLroRA...",
+        "VXZSXhGDhtyhjUuw6Red2KFVRL_4fIvHJ-D22oy1xRa-4FJeZDzMoBspW4HD2Dn*N/c·;&#·sR··w······'·_·#···;··+··3G·...",
+        "VXZSXhGDhtyhjUuw6Red2KFVRL_4fIvHJ-D22oy1xRa-4FJeZDzMoBspW4HD2D+BN/c·;&#·sR··w······'·_·#···;··+··3G·..."
+      ]
+    },
+    {
+      "hash": "HUlvQ1guaHk=",
+      "count": 8,
+      "found": true,
+      "bundleOffset": 189182,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "[\\\"TypeError: Cannot read properties of null at pz at HTMLDocument.querySelectorAll at eval , <anony...",
+        "[\\\"TypeError: Cannot read properties of null at pz at HTMLDocument.querySelectorAll at CE.<anonymous..."
+      ],
+      "context": "[kf(190)]=\"HUlvQ1guaHk=\",VY.func=functio"
+    },
+    {
+      "hash": "bHgeciobH0U=",
+      "count": 2,
+      "found": true,
+      "bundleOffset": 133778,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagshi..."
+      ],
+      "context": "n.d;e&&(e[\"bHgeciobH0U=\"]=xi)}function C"
+    },
+    {
+      "hash": "eytJYT5MTFQ=",
+      "count": 2,
+      "found": true,
+      "bundleOffset": 160885,
+      "propsInContext": [
+        "history"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "0"
+      ],
+      "context": "{try{mP(t,\"eytJYT5MTFQ=\",(function(){ret"
+    },
+    {
+      "hash": "InJQeGcTUEI=",
+      "count": 2,
+      "found": true,
+      "bundleOffset": 230704,
+      "propsInContext": [
+        "platform"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "Linux x86_64"
+      ],
+      "context": "Y()?1:0,t[\"InJQeGcTUEI=\"]=kj&&kj.platfor"
+    },
+    {
+      "hash": "M2MBKXUPDB8=",
+      "count": 2,
+      "found": true,
+      "bundleOffset": 100075,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "TypeError: Cannot read properties of null (reading '0')\\n    at pz (https://www.bloomberg.com/8FCGYg..."
+      ],
+      "context": ")]=sK(),e[\"M2MBKXUPDB8=\"]=mQ(pz()),e[\"aH"
+    },
+    {
+      "hash": "cyNBaTZDQl4=",
+      "count": 2,
+      "found": true,
+      "bundleOffset": 210495,
+      "propsInContext": [
+        "Date"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "534.2999992370605"
+      ],
+      "context": "=HT(),o.d[\"cyNBaTZDQl4=\"]=HU(),r.push(o)"
+    },
+    {
+      "hash": "STU7fw9TOUQ=",
+      "count": 2,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "dEAGCjIhADk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 160574,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "1779649901214"
+      ],
+      "context": "VMA4=\"],t[\"dEAGCjIhADk=\"]%10+1);t[\"FCAmK"
+    },
+    {
+      "hash": "EX1jN1QeZg0=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "{\"0lE7\":\"c3nJFA2\"}"
+      ]
+    },
+    {
+      "hash": "R3c1PQEVMA4=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 160498,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "10652506931195586737"
+      ],
+      "context": "IRg=\"]||t[\"R3c1PQEVMA4=\"],t[kf(783)]%10+"
+    },
+    {
+      "hash": "Dz99dUpefUM=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "4931"
+      ]
+    },
+    {
+      "hash": "ZHAWeiETE04=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 160062,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "912"
+      ],
+      "context": ";try{t[0][\"ZHAWeiETE04=\"]=912}catch(t){}"
+    },
+    {
+      "hash": "R3c1PQIUMAs=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 159923,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "{\"m\":false}"
+      ],
+      "context": ";try{t[0][\"R3c1PQIUMAs=\"]={m:!1}}catch(t"
+    },
+    {
+      "hash": "TTk/cwtZOkk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 148023,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "49e5084e"
+      ],
+      "context": "5]&&(t[0][\"TTk/cwtZOkk=\"]=mz(mA(t[5]))),"
+    },
+    {
+      "hash": "KxsZEW16GSE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 150131,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "7c5f9724"
+      ],
+      "context": "55)],t[0][\"KxsZEW16GSE=\"]=Di(kh,t.f),t[7"
+    },
+    {
+      "hash": "Hm4sZFsJKF4=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 151692,
+      "propsInContext": [
+        "appCodeName",
+        "appName",
+        "productSub",
+        "Bluetooth"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "65d826e0"
+      ],
+      "context": "ze\"],t[0][\"Hm4sZFsJKF4=\"]=Di(ki,t[7]),t["
+    },
+    {
+      "hash": "dWFHKzAAShg=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "a9269e00"
+      ]
+    },
+    {
+      "hash": "R3c1PQEVOA8=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "50a5ec55"
+      ]
+    },
+    {
+      "hash": "MDxCNnVfQQY=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "73a0fb26"
+      ]
+    },
+    {
+      "hash": "YGwSZiUPEVA=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152357,
+      "propsInContext": [
+        "javaEnabled",
+        "getBattery"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "Dj(),t[0][\"YGwSZiUPEVA=\"]=!!kh[kf(722)],"
+    },
+    {
+      "hash": "Hw9tBVpsbjI=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "cgIASDdhA3w=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152420,
+      "propsInContext": [
+        "getBattery"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "77)],t[0][\"cgIASDdhA3w=\"]=!!kj[kf(724)],"
+    },
+    {
+      "hash": "M2MBKXYAAhw=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "Czt5cU5Yeks=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "eEQKDj0nCTU=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152533,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "id 0,t[0][\"eEQKDj0nCTU=\"]=Dk(),t[0][\"Fwd"
+    },
+    {
+      "hash": "FwdlDVJkZz8=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152559,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "Dk(),t[0][\"FwdlDVJkZz8=\"]=Dl()}catch(t){"
+    },
+    {
+      "hash": "YGwSZiUME1A=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 160312,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "n Er(t){t[\"YGwSZiUME1A=\"]=!(!kh[kf(788)]"
+    },
+    {
+      "hash": "P28NJXkPCx4=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157678,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "64556c77"
+      ],
+      "context": "\",kf(778),\"P28NJXkPCx4=\",\"Z1dVXSE3VWo=\","
+    },
+    {
+      "hash": "U0MhSRUjJnM=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 161993,
+      "propsInContext": [
+        "log",
+        "toString",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        ""
+      ],
+      "context": "\"\"),mP(kb,\"U0MhSRUjJnM=\",(function(){ret"
+    },
+    {
+      "hash": "LVkfU2g+HWA=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 162099,
+      "propsInContext": [
+        "log",
+        "toString",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "10207b2f"
+      ],
+      "context": "\"\"),mP(kb,\"LVkfU2g+HWA=\",(function(){ret"
+    },
+    {
+      "hash": "XGhuYhoFb1k=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 162175,
+      "propsInContext": [
+        "log",
+        "toString",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "10207b2f"
+      ],
+      "context": "\"\"),mP(kb,\"XGhuYhoFb1k=\",(function(){ret"
+    },
+    {
+      "hash": "N2cFLXIGBhs=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 162237,
+      "propsInContext": [
+        "toString",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "90e65465"
+      ],
+      "context": "\"\"),mP(kb,\"N2cFLXIGBhs=\",(function(){var"
+    },
+    {
+      "hash": "ZHAWeiIWFk4=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 163214,
+      "propsInContext": [
+        "Object",
+        "getPrototypeOf"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "}),\"\"),kb[\"ZHAWeiIWFk4=\"]=!!kh.Worklet,k"
+    },
+    {
+      "hash": "bHgecikZGUY=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 163246,
+      "propsInContext": [
+        "Object",
+        "getPrototypeOf"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "orklet,kb[\"bHgecikZGUY=\"]=!!kh.AudioWork"
+    },
+    {
+      "hash": "UBxiVhZ+bmU=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "FwdlDVFnYTg=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "aRVbHyx1XC0=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 100444,
+      "propsInContext": [
+        "languages"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": ")]=sO(),r[\"aRVbHyx1XC0=\"]=sQ();try{var k"
+    },
+    {
+      "hash": "OARKTn1kTXs=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 163414,
+      "propsInContext": [
+        "localStorage"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "d4acbe702b2ce9d7b185cbf0062c8dea"
+      ],
+      "context": "]=ER(),kb[\"OARKTn1kTXs=\"]=ES(),kb[\"bRlfE"
+    },
+    {
+      "hash": "bRlfEyh4Uic=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157731,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "null"
+      ],
+      "context": "\",kf(779),\"bRlfEyh4Uic=\",\"ICxSJmVKURY=\"]"
+    },
+    {
+      "hash": "Hm4sZFsJL1Y=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.3..."
+      ]
+    },
+    {
+      "hash": "HCguIllPLxk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 163926,
+      "propsInContext": [
+        "Object",
+        "getPrototypeOf"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": "kg[DW],kb[\"HCguIllPLxk=\"]=!!kg[DU],mP(kb"
+    },
+    {
+      "hash": "cgIASDRvDH0=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "90e65465"
+      ]
+    },
+    {
+      "hash": "Slp4EA86dCU=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "2"
+      ]
+    },
+    {
+      "hash": "MDxCNnZcRQ0=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 166281,
+      "propsInContext": [
+        "performance",
+        "Date"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "69364535"
+      ],
+      "context": "}();n&&(t[\"MDxCNnZcRQ0=\"]=n[lo(\"dXNlZEpT"
+    },
+    {
+      "hash": "Z1dVXSE3VWo=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157693,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "4294967296"
+      ],
+      "context": "JXkPCx4=\",\"Z1dVXSE3VWo=\",\"KxsZEW16GSE=\","
+    },
+    {
+      "hash": "Xi5sJBhDahU=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "100472531"
+      ]
+    },
+    {
+      "hash": "P28NJXkCDBc=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157640,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "Sun May 24 2026 14:11:41 GMT-0500 (Central Daylight Time)"
+      ],
+      "context": "IX0ICxs=\",\"P28NJXkCDBc=\",\"V0clTREnJns=\","
+    },
+    {
+      "hash": "QAxyRgZsdXI=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 166414,
+      "propsInContext": [
+        "performance",
+        "Date"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": ".Date(),t[\"QAxyRgZsdXI=\"]=!!kh.Buffer,t["
+    },
+    {
+      "hash": "eytJYT1IRFc=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "Q3MxOQUeNQk=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "Dh48VEt4OmM=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "YGwSZiUJH1Q=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "O2sJIX0ICxs=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157625,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": "cwtfM0E=\",\"O2sJIX0ICxs=\",\"P28NJXkCDBc=\","
+    },
+    {
+      "hash": "GUVrT18janQ=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "visible"
+      ]
+    },
+    {
+      "hash": "OkpIAH8sRDU=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "NkZEDHAgSTk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 230738,
+      "propsInContext": [
+        "platform"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "0"
+      ],
+      "context": "latform,t[\"NkZEDHAgSTk=\"]=ki.documentMod"
+    },
+    {
+      "hash": "fEgOAjksDjA=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 166652,
+      "propsInContext": [
+        "outerWidth"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "1374"
+      ],
+      "context": "60)]||0,t[\"fEgOAjksDjA=\"]=EL(kh.outerWid"
+    },
+    {
+      "hash": "Dz99dUpZeEM=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 166688,
+      "propsInContext": [
+        "outerWidth"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": "rWidth),t[\"Dz99dUpZeEM=\"]=mL(kh[kf(861)]"
+    },
+    {
+      "hash": "YjIQOCRREAs=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 166722,
+      "propsInContext": [
+        "outerWidth"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "1031"
+      ],
+      "context": "(861)]),t[\"YjIQOCRREAs=\"]=EL(kh[kf(862)]"
+    },
+    {
+      "hash": "Cho4UEx3O2U=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 166756,
+      "propsInContext": [
+        "outerWidth"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "missing"
+      ],
+      "context": "(862)]),t[\"Cho4UEx3O2U=\"]=kj[kf(863)]||D"
+    },
+    {
+      "hash": "RTE3ewBWN00=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 166790,
+      "propsInContext": [
+        "outerWidth"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": "3)]||DZ,t[\"RTE3ewBWN00=\"]=mL(kh[kf(864)]"
+    },
+    {
+      "hash": "TTk/cwtZPkE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 166824,
+      "propsInContext": [
+        "outerWidth"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "(864)]),t[\"TTk/cwtZPkE=\"]=kh.matchMedia&"
+    },
+    {
+      "hash": "JxcVHWF3FCc=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "a1tZUS06WGU=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "BXF3O0ARdwk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 167017,
+      "propsInContext": [
+        "performance",
+        "navigation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "0"
+      ],
+      "context": "(869)]),t[\"BXF3O0ARdwk=\"]=kh.performance"
+    },
+    {
+      "hash": "UBxiVhV9ZGU=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 167111,
+      "propsInContext": [
+        "performance",
+        "navigation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "0"
+      ],
+      "context": "f(405)],t[\"UBxiVhV9ZGU=\"]=mJ(kh),t[kf(87"
+    },
+    {
+      "hash": "LDheMmpUUgE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 100482,
+      "propsInContext": [
+        "languages"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "14"
+      ],
+      "context": " k=mg();r[\"LDheMmpUUgE=\"]=k.cssFromResou"
+    },
+    {
+      "hash": "FmYkbFALIlk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 100521,
+      "propsInContext": [
+        "languages"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "1"
+      ],
+      "context": "urceApi,r[\"FmYkbFALIlk=\"]=k.imgFromResou"
+    },
+    {
+      "hash": "KxsZEW14HyE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 100560,
+      "propsInContext": [
+        "languages"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "0"
+      ],
+      "context": "urceApi,r[\"KxsZEW14HyE=\"]=k.fontFromReso"
+    },
+    {
+      "hash": "Xi5sJBhPaR8=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 100600,
+      "propsInContext": [
+        "languages"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "9"
+      ],
+      "context": "urceApi,r[\"Xi5sJBhPaR8=\"]=k[kf(341)]}cat"
+    },
+    {
+      "hash": "LDheMmpVXwM=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 164936,
+      "propsInContext": [
+        "screen",
+        "width",
+        "height"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "1366"
+      ],
+      "context": "||-1,t[0][\"LDheMmpVXwM=\"]=t[-133],t[0][k"
+    },
+    {
+      "hash": "GmooYFwIJVM=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "900"
+      ]
+    },
+    {
+      "hash": "ICxSJmVIVRU=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 164987,
+      "propsInContext": [
+        "screen",
+        "width",
+        "height"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "1366"
+      ],
+      "context": "193],t[0][\"ICxSJmVIVRU=\"]=t[3],t[0][kf(7"
+    },
+    {
+      "hash": "JnZUfGMSU0Y=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "900"
+      ]
+    },
+    {
+      "hash": "GUVrT1wjZno=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157486,
+      "propsInContext": [
+        "Math"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "1366X900"
+      ],
+      "context": "),kf(769),\"GUVrT1wjZno=\",\"PSkPY3tPAlE=\","
+    },
+    {
+      "hash": "dydFbTJCQFw=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 165065,
+      "propsInContext": [
+        "screen"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "24"
+      ],
+      "context": "193],t[0][\"dydFbTJCQFw=\"]=screen&&+scree"
+    },
+    {
+      "hash": "PSkPY3tPAlE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157501,
+      "propsInContext": [
+        "Math"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "24"
+      ],
+      "context": "T1wjZno=\",\"PSkPY3tPAlE=\",kf(770),kf(771)"
+    },
+    {
+      "hash": "SBR6Xg13d2o=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 165170,
+      "propsInContext": [
+        "screen"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "1996"
+      ],
+      "context": "}try{t[0][\"SBR6Xg13d2o=\"]=kh.screenX,t[0"
+    },
+    {
+      "hash": "GUVrT1wmZno=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 165202,
+      "propsInContext": [
+        "screen"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "42"
+      ],
+      "context": "eenX,t[0][\"GUVrT1wmZno=\"]=kh.screenY,t[0"
+    },
+    {
+      "hash": "fg4MRDhvAHI=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "1366"
+      ]
+    },
+    {
+      "hash": "WipoIB9LbBM=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 165264,
+      "propsInContext": [
+        "screen",
+        "outerWidth",
+        "outerHeight"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "900"
+      ],
+      "context": "||-1,t[0][\"WipoIB9LbBM=\"]=kh[kf(837)]||-"
+    },
+    {
+      "hash": "ajoYMC9bGQE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 165301,
+      "propsInContext": [
+        "screen",
+        "outerWidth",
+        "outerHeight"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "0"
+      ],
+      "context": "||-1,t[0][\"ajoYMC9bGQE=\"]=kh[kf(838)]||k"
+    },
+    {
+      "hash": "eytJYT5KSFQ=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 165353,
+      "propsInContext": [
+        "outerWidth",
+        "outerHeight"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "0"
+      ],
+      "context": "t||0,t[0][\"eytJYT5KSFQ=\"]=kh[kf(839)]||k"
+    },
+    {
+      "hash": "Czt5cU1bf0A=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "LDheMmldXAk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 165460,
+      "propsInContext": [
+        "outerWidth",
+        "outerHeight"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": "ght),t[0][\"LDheMmldXAk=\"]=EJ()}catch(t){"
+    },
+    {
+      "hash": "Dz99dUpYf08=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152630,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "f(728));t[\"Dz99dUpYf08=\"]=Df(),t[\"dEAGCj"
+    },
+    {
+      "hash": "WGRqbh4HZlg=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152676,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": "\"]=Dg(),t[\"WGRqbh4HZlg=\"]=Dh(),t[\"JDBWOm"
+    },
+    {
+      "hash": "egoIQD9tBHY=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "PSkPY3hJC1U=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "ZRFXGyBxUyw=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152791,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "TypeError: Cannot read properties of undefined (reading 'width')"
+      ],
+      "context": ")]=Dm(),t[\"ZRFXGyBxUyw=\"]=Dn(),t[\"VGBmah"
+    },
+    {
+      "hash": "VGBmahEAYl4=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152814,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "webkit"
+      ],
+      "context": "\"]=Dn(),t[\"VGBmahEAYl4=\"]=Do(),t[\"a1tZUS"
+    },
+    {
+      "hash": "a1tZUS47XWQ=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 152837,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "33"
+      ],
+      "context": "\"]=Do(),t[\"a1tZUS47XWQ=\"]=Dp(),t[kf(732)"
+    },
+    {
+      "hash": "VGBmahEAYlA=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "AzNxeUZTcE4=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "N2cFLXIHBxw=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157297,
+      "propsInContext": [
+        "Math"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "130db"
+      ],
+      "context": "65)]||(DA[\"N2cFLXIHBxw=\"]=mz(\"\"+Math[kf("
+    },
+    {
+      "hash": "U0MhSRYmInI=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "[\"PDF Viewer\",\"Chrome PDF Viewer\",\"Chromium PDF Viewer\",\"Microsoft Edge PDF Viewer\",\"WebKit built-in..."
+      ]
+    },
+    {
+      "hash": "KDRaPm1TVwo=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 169125,
+      "propsInContext": [
+        "plugins"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "5"
+      ],
+      "context": "888)]=r,t[\"KDRaPm1TVwo=\"]=e,t[kf(889)]=t"
+    },
+    {
+      "hash": "N2cFLXEHBxk=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "OkpIAH8sTDo=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "MV0DV3c7DmE=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "N2cFLXEKCBk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 169261,
+      "propsInContext": [
+        "languages",
+        "plugins"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "t){}try{t[\"N2cFLXEKCBk=\"]=kj.plugins[kf("
+    },
+    {
+      "hash": "RBB2WgJwe2s=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157540,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "en-US"
+      ],
+      "context": "),kf(772),\"RBB2WgJwe2s=\",kf(773),kf(774)"
+    },
+    {
+      "hash": "XQkvAxtqIjA=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "[\"en-US\",\"en\"]"
+      ]
+    },
+    {
+      "hash": "eWVLLz8HSxk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 109172,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.3..."
+      ],
+      "context": "k=\"]=yV,t[\"eWVLLz8HSxk=\"]=n,t[\"YQ1TByRqU"
+    },
+    {
+      "hash": "AzNxeUZWd0w=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "TTk/cwtfM0E=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157610,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "300"
+      ],
+      "context": "\",kf(777),\"TTk/cwtfM0E=\",\"O2sJIX0ICxs=\","
+    },
+    {
+      "hash": "eEQKDj4nDT0=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157587,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "32"
+      ],
+      "context": "),kf(776),\"eEQKDj4nDT0=\",kf(777),\"TTk/cw"
+    },
+    {
+      "hash": "Lx8dFWl8HSA=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 100376,
+      "propsInContext": [
+        "languages"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "2"
+      ],
+      "context": "ean(!0),r[\"Lx8dFWl8HSA=\"]=kj.languages&&"
+    },
+    {
+      "hash": "fEgOAjktAzE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 169697,
+      "propsInContext": [
+        "appVersion",
+        "deviceMemory",
+        "mimeTypes",
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "Gecko"
+      ],
+      "context": "=\"]=kl),t[\"fEgOAjktAzE=\"]=kj[kf(900)],t["
+    },
+    {
+      "hash": "bHgecioUG0g=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 169727,
+      "propsInContext": [
+        "appVersion",
+        "deviceMemory",
+        "mimeTypes",
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "20030107"
+      ],
+      "context": "f(900)],t[\"bHgecioUG0g=\"]=kj[kf(901)],t["
+    },
+    {
+      "hash": "W0spQR4tLXc=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 169757,
+      "propsInContext": [
+        "appVersion",
+        "mimeTypes",
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+      ],
+      "context": "f(901)],t[\"W0spQR4tLXc=\"]=kj.appVersion,"
+    },
+    {
+      "hash": "Q3MxOQUeNgI=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "EmIgaFQDI14=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 169789,
+      "propsInContext": [
+        "appCodeName",
+        "appVersion",
+        "mimeTypes",
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "Version,t[\"EmIgaFQDI14=\"]=t[kf(902)]=EQ("
+    },
+    {
+      "hash": "a1tZUS4+WWc=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 169823,
+      "propsInContext": [
+        "appCodeName",
+        "appVersion",
+        "mimeTypes",
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "2"
+      ],
+      "context": ")]=EQ(),t[\"a1tZUS4+WWc=\"]=kj.mimeTypes&&"
+    },
+    {
+      "hash": "VGBmahINYVk=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "Netscape"
+      ]
+    },
+    {
+      "hash": "P28NJXkODx4=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "Mozilla"
+      ]
+    },
+    {
+      "hash": "ICxSJmZPUBA=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170014,
+      "propsInContext": [
+        "appCodeName",
+        "mimeTypes",
+        "permissions",
+        "connection"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "t){}try{t[\"ICxSJmZPUBA=\"]=kj[kf(229)]&&k"
+    },
+    {
+      "hash": "eWVLLzwCShw=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "0"
+      ]
+    },
+    {
+      "hash": "YQ1TBydrUTc=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "NABGSnJjS3s=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170196,
+      "propsInContext": [
+        "permissions",
+        "connection",
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "10"
+      ],
+      "context": "aveData,t[\"NABGSnJjS3s=\"]=kj[kf(906)].do"
+    },
+    {
+      "hash": "WQUrDx9lKDw=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170235,
+      "propsInContext": [
+        "permissions",
+        "connection",
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "4g"
+      ],
+      "context": "ownlink,t[\"WQUrDx9lKDw=\"]=kj.connection."
+    },
+    {
+      "hash": "GCQqLl5JKBs=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "UT0jdxRZJkU=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170338,
+      "propsInContext": [
+        "connection",
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "f(910)],t[\"UT0jdxRZJkU=\"]=kj.geolocation"
+    },
+    {
+      "hash": "WQUrDxxmKDw=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "eEQKDj0kDzo=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "x86"
+      ]
+    },
+    {
+      "hash": "UiJgKBdCZR0=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170502,
+      "propsInContext": [
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "64"
+      ],
+      "context": "f(914)],t[\"UiJgKBdCZR0=\"]=rx.bitness,t[\""
+    },
+    {
+      "hash": "XGhuYhkIa1g=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170531,
+      "propsInContext": [
+        "geolocation"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "[{\"brand\":\"Chromium\",\"version\":\"148\"},{\"brand\":\"Google Chrome\",\"version\":\"148\"},{\"brand\":\"Not/A)Bran..."
+      ],
+      "context": "bitness,t[\"XGhuYhkIa1g=\"]=rx.brands,t[\"O"
+    },
+    {
+      "hash": "OkpIAH8qTTs=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170559,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": ".brands,t[\"OkpIAH8qTTs=\"]=rx[kf(915)],t["
+    },
+    {
+      "hash": "O2sJIX4LDRM=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        ""
+      ]
+    },
+    {
+      "hash": "KnpYcG8aXEM=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "Linux"
+      ]
+    },
+    {
+      "hash": "NABGSnFgQno=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        ""
+      ]
+    },
+    {
+      "hash": "WGRqbh0Ebl8=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "148.0.7778.96"
+      ]
+    },
+    {
+      "hash": "UBxiVhV8Y2w=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170695,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "on);try{t[\"UBxiVhV8Y2w=\"]=!!kj.userAgent"
+    },
+    {
+      "hash": "UBxiVhV8Y20=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170732,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "entData,t[\"UBxiVhV8Y20=\"]=kj[kf(920)],t["
+    },
+    {
+      "hash": "ICxSJmVKURY=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 157746,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "9f4ad436c590825b763613cc0227fb6e"
+      ],
+      "context": "Eyh4Uic=\",\"ICxSJmVKURY=\"],DU=lo(kf(780))"
+    },
+    {
+      "hash": "ZRFXGyByWiE=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "T389NQkcMAI=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "12"
+      ]
+    },
+    {
+      "hash": "cHwCdjUfAEY=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 170873,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": "-1);try{t[\"cHwCdjUfAEY=\"]=!mL(kj[kf(923)"
+    },
+    {
+      "hash": "UBxiVhV6ZGQ=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "109|66|66|70|80"
+      ]
+    },
+    {
+      "hash": "S3s5MQ0ZPAY=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 161292,
+      "propsInContext": [
+        "referrer",
+        "chrome",
+        "runtime"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "331"
+      ],
+      "context": ")]=Da(),t[\"S3s5MQ0ZPAY=\"]=CZ(),t[\"MV0DV3"
+    },
+    {
+      "hash": "eytJYT1HT1s=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "MV0DV3c+Bmc=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 161315,
+      "propsInContext": [
+        "chrome",
+        "runtime"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "\"]=CZ(),t[\"MV0DV3c+Bmc=\"]=t[kf(799)]=!!k"
+    },
+    {
+      "hash": "V0clTRIiIn4=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 161374,
+      "propsInContext": [
+        "chrome",
+        "runtime",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": "HI18=\"]=t[\"V0clTRIiIn4=\"]=CX(),t[kf(800)"
+    },
+    {
+      "hash": "FmYkbFMHI18=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 161356,
+      "propsInContext": [
+        "chrome",
+        "runtime",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": ".caches,t[\"FmYkbFMHI18=\"]=t[\"V0clTRIiIn4"
+    },
+    {
+      "hash": "P28NJXoLChM=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "1"
+      ]
+    },
+    {
+      "hash": "Bzd1fUFUcEY=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "1"
+      ]
+    },
+    {
+      "hash": "Lx8dFWp4ESY=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 161424,
+      "propsInContext": [
+        "chrome",
+        "runtime",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        ""
+      ],
+      "context": ")]=CY(),t[\"Lx8dFWp4ESY=\"]=kh.chrome&&kh["
+    },
+    {
+      "hash": "YGwSZiYBH1U=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 161502,
+      "propsInContext": [
+        "chrome",
+        "runtime",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "[\"loadTimes\",\"csi\",\"app\"]"
+      ],
+      "context": ".id||\"\",t[\"YGwSZiYBH1U=\"]=kg(kh[kf(802)]"
+    },
+    {
+      "hash": "GUVrT1wmZnk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 161597,
+      "propsInContext": [
+        "userAgent",
+        "chrome",
+        "runtime",
+        "Object"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": "ome):[],t[\"GUVrT1wmZnk=\"]=kf(804)in HTML"
+    },
+    {
+      "hash": "GCQqLl5ELBQ=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 160938,
+      "propsInContext": [
+        "referrer",
+        "history"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "2"
+      ],
+      "context": "),2),mP(t,\"GCQqLl5ELBQ=\",(function(){ret"
+    },
+    {
+      "hash": "Dz99dUpff08=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 115944,
+      "propsInContext": [
+        "connection"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "{}"
+      ],
+      "context": "t.b);t[0][\"Dz99dUpff08=\"]=t.c}catch(t){}"
+    },
+    {
+      "hash": "UBxiVhV8bmA=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "false"
+      ]
+    },
+    {
+      "hash": "ICxSJmVMURI=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 120132,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "false"
+      ],
+      "context": ";try{t[0][\"ICxSJmVMURI=\"]=!!kj[kf(449)]}"
+    },
+    {
+      "hash": "AEwyBkUsMDU=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "ea6152e6"
+      ]
+    },
+    {
+      "hash": "N2cFLXIDABc=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 103064,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "549"
+      ],
+      "context": "o=((r={})[\"N2cFLXIDABc=\"]=k.pageX,r[\"ZHA"
+    },
+    {
+      "hash": "ZHAWeiEREkw=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 103090,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "343"
+      ],
+      "context": "k.pageX,r[\"ZHAWeiEREkw=\"]=k.pageY,r[kf(3"
+    },
+    {
+      "hash": "Hw9tBVppaDQ=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "mouseover"
+      ]
+    },
+    {
+      "hash": "TTk/cwtaM0g=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 100166,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "1677"
+      ],
+      "context": "\"]=wX(),e[\"TTk/cwtaM0g=\"]=t[\"TTk/cwtaM0g"
+    },
+    {
+      "hash": "eytJYT1HRFQ=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 192627,
+      "propsInContext": [
+        "dblclick",
+        "scroll"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "true"
+      ],
+      "context": ")]=tQ(),n[\"eytJYT1HRFQ=\"]=tA(t),n[kf(103"
+    },
+    {
+      "hash": "AzNxeUZScko=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "true"
+      ]
+    },
+    {
+      "hash": "RlZ0HAA1dCw=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 84872,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "#bb-that>NAV>DIV:nth-child(2)"
+      ],
+      "context": "c=\":e||\"\",\"RlZ0HAA1dCw=\":tv(t,!0)})}func"
+    },
+    {
+      "hash": "Hw9tBVptaDU=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 133175,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "eyJ1IjoiNjU1MDcyMjAtNTdhNC0xMWYxLTlkYjEtZjc2YmFmNjY0N2UzIiwidiI6IjY0NDhiNTE1LTU3YTQtMTFmMS1iN2VjLWNk..."
+      ],
+      "context": ");f&&(o.d[\"Hw9tBVptaDU=\"]=f)}r&&(o.d[\"Fm"
+    },
+    {
+      "hash": "FmYkbFMEJF4=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 133202,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "{\"PX12738\":2448,\"PX12739\":0,\"PX12740\":0,\"PX12741\":-1}"
+      ],
+      "context": ")}r&&(o.d[\"FmYkbFMEJF4=\"]=r)}Ca(t);var u"
+    },
+    {
+      "hash": "JVEXW2AyEWE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 228459,
+      "propsInContext": [
+        "mousemove",
+        "click"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "{\"PX12737\":5}"
+      ],
+      "context": "},WV.type=\"JVEXW2AyEWE=\",WV.target=ki.bo"
+    },
+    {
+      "hash": "a1tZUS44WGc=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 228573,
+      "propsInContext": [
+        "mousemove",
+        "click"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "{\"PX12737\":0}"
+      ],
+      "context": "[kf(405)]=\"a1tZUS44WGc=\",WW.target=ki.bo"
+    },
+    {
+      "hash": "BhY0XEB7Nms=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 105966,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "65507220-57a4-11f1-9db1-f76baf6·"
+      ],
+      "context": "g=\"]=xw,n[\"BhY0XEB7Nms=\"]=qP(),n[\"bHgeci"
+    },
+    {
+      "hash": "YQ1TByRtUTU=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 182375,
+      "propsInContext": [
+        "log",
+        "Math"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "729f8d4f7f8d25bac3eeb8224346a4f9"
+      ],
+      "context": "&le(n);t({\"YQ1TByRtUTU=\":e})}))}catch(t)"
+    },
+    {
+      "hash": "Dh48VEh4PGQ=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 138639,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "981f7d41abcd4453540e85554ef78612"
+      ],
+      "context": "tion(n){e[\"Dh48VEh4PGQ=\"]=n.canvasfp,e[\""
+    },
+    {
+      "hash": "EwNhCVZkbTk=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 138668,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "WebKit"
+      ],
+      "context": "anvasfp,e[\"EwNhCVZkbTk=\"]=n.webglVendor,"
+    },
+    {
+      "hash": "S3s5MQ0bOgQ=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 143358,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "WebKit WebGL"
+      ],
+      "context": "kbTk=\":rr,\"S3s5MQ0bOgQ=\":rr,\"Dz99dUpae0U"
+    },
+    {
+      "hash": "Dz99dUpae0U=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 138727,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "WebGL 1.0 (OpenGL ES 2.0 Chromium)"
+      ],
+      "context": "enderer,e[\"Dz99dUpae0U=\"]=n[kf(511)],e[\""
+    },
+    {
+      "hash": "eWVLLz8FTRs=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 138756,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "[\"ANGLE_instanced_arrays\",\"EXT_blend_minmax\",\"EXT_clip_control\",\"EXT_color_buffer_half_float\",\"EXT_d..."
+      ],
+      "context": "f(511)],e[\"eWVLLz8FTRs=\"]=n.extensions,e"
+    },
+    {
+      "hash": "S3s5MQ4dOQE=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 138884,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "Google Inc. (Google)"
+      ],
+      "context": "meters),e[\"S3s5MQ4dOQE=\"]=n.unmaskedVend"
+    },
+    {
+      "hash": "BhY0XEB3NGs=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 138919,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)"
+      ],
+      "context": "dVendor,e[\"BhY0XEB3NGs=\"]=n.unmaskedRend"
+    },
+    {
+      "hash": "Hw9tBVlvazM=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 138956,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)"
+      ],
+      "context": "enderer,e[\"Hw9tBVlvazM=\"]=n.shadingLangu"
+    },
+    {
+      "hash": "VGBmahEAY1s=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 138787,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "6d898cfee56605c531efc46a280e01c0"
+      ],
+      "context": "ensions,e[\"VGBmahEAY1s=\"]=le(n.extension"
+    },
+    {
+      "hash": "ajoYMC9aHQA=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "9b8e836c80256218616267231fbeb317"
+      ]
+    },
+    {
+      "hash": "BFA2GkI8MS8=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "38255aac7896f329f7d6c6d9da745d30"
+      ]
+    },
+    {
+      "hash": "bRlfEyh5XSM=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 139965,
+      "propsInContext": [
+        "canvas",
+        "toDataURL",
+        "fillText",
+        "toString"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "4dd3d12110d9b29c7616fcb12f0da217"
+      ],
+      "context": "iYz8=\"}t({\"bRlfEyh5XSM=\":n})}),1)}))}fun"
+    },
+    {
+      "hash": "TBh+Ugl6eGQ=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 185960,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "[63,63,63,63,0,191,191,191,191,191,191,191,191,191,191,191,191,191,191,128,128,128,128,128,128,128]"
+      ],
+      "context": "tch(n){t({\"TBh+Ugl6eGQ=\":rr})}}))}var Fz"
+    },
+    {
+      "hash": "ajoYMCxbGgU=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 137373,
+      "propsInContext": [
+        "OfflineAudioContext",
+        "createOscillator"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "126.86972438948578"
+      ],
+      "context": "00);n||t({\"ajoYMCxbGgU=\":rr,\"WQUrDxxhLjQ"
+    },
+    {
+      "hash": "WQUrDxxhLjQ=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 137391,
+      "propsInContext": [
+        "OfflineAudioContext",
+        "createOscillator"
+      ],
+      "kcResolved": [],
+      "samples": [
+        "2dce8c55c6897067fdf0c76ddf6e6d50"
+      ],
+      "context": "bGgU=\":rr,\"WQUrDxxhLjQ=\":rr});var e=n.cr"
+    },
+    {
+      "hash": "N2cFLXIBBRs=",
+      "count": 1,
+      "found": false,
+      "samples": [
+        "c4fc84145dda8653ee2e130082e267ad"
+      ]
+    },
+    {
+      "hash": "Hm4sZFsNK1Q=",
+      "count": 1,
+      "found": true,
+      "bundleOffset": 190116,
+      "propsInContext": [],
+      "kcResolved": [],
+      "samples": [
+        "016beb17dd57a6e446b36265284c0c9c"
+      ],
+      "context": "ar n={};n[\"Hm4sZFsNK1Q=\"]=Fj();var e=Fp("
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "target": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+  "exitIp": "107.210.133.127",
+  "initialStatus": 200,
+  "initialTitle": "DeepSeek To Make Permanent 75% Discount on Flagship AI Model - Bloomberg",
+  "finalUrl": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+  "finalTitle": "DeepSeek To Make Permanent 75% Discount on Flagship AI Model - Bloomberg",
+  "articleH1": "DeepSeek To Make Permanent 75% Discount on Flagship AI Model",
+  "bytes": 807021,
+  "hasCaptcha": false,
+  "pxCookies": [
+    {
+      "name": "_pxhd",
+      "value": "CKDQiRnJlnP3yOyVswqUICcWqgMIgKRNBJ-thFlaK3MGGMMFL570a8LQuEcvrmtBKEQ4P2W3JuxmbZ33…"
+    },
+    {
+      "name": "_pxvid",
+      "value": "a2ba86e4-57ab-11f1-970c-ab0e580a7e56…"
+    },
+    {
+      "name": "_px2",
+      "value": "eyJ1IjoiYTNiNjhjZjAtNTdhYi0xMWYxLTg3ZTAtOTUwZjM4ZTU5ZmIxIiwidiI6ImEyYmE4NmU0LTU3…"
+    },
+    {
+      "name": "pxcts",
+      "value": "9vR/YAAXWJjMXFaWXMnMOb5eZxPJmg/jKiZpjGgT3ec=:3ASyMDw6O7ZNsx0UtbxsOkZjNI9HLIIvLOP…"
+    },
+    {
+      "name": "_pxde",
+      "value": "d7232acf2c1fe4ff4dca57165ec88cdc282b962e6388e723031203caebd1933d:eyJ0aW1lc3RhbXA…"
+    }
+  ],
+  "collectorPostCount": 9,
+  "collectorPosts": [
+    {
+      "url": "https://collector-px8fcgygk4.px-cloud.net/api/v2/collector",
+      "bytes": 1203,
+      "preview": "payload=aUkQRhAIEH5KClZ0ZUIEd2F7DxAeEFYQCEkQUHpVV1FbXVB6AmcPEAgQWkZGQkEIHR1FRUUcUF5dXV9QV0BVHFFdXx1c",
+      "bodyDumpedTo": "00-collector.bin"
+    },
+    {
+      "url": "https://collector-px8fcgygk4.px-cloud.net/b/s",
+      "bytes": 1203,
+      "preview": "payload=aUkQRhAIEH5KClZ0ZUIEd2F7DxAeEFYQCEkQUHpVV1FbXVB6AmcPEAgQWkZGQkEIHR1FRUUcUF5dXV9QV0BVHFFdXx1c",
+      "bodyDumpedTo": "01-collector.bin"
+    },
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/xhr/api/v2/collector",
+      "bytes": 1203,
+      "preview": "payload=aUkQRhAIEH5KClZ0ZUIEd2F7DxAeEFYQCEkQUHpVV1FbXVB6AmcPEAgQWkZGQkEIHR1FRUUcUF5dXV9QV0BVHFFdXx1c",
+      "bodyDumpedTo": "02-collector.bin"
+    },
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/xhr/api/v2/collector",
+      "bytes": 13144,
+      "preview": "payload=aUkQRhAIEFRVBn9gdlpHc3prDxAeEFYQCEkQVndzdXFYe1pzdlkPEAgDBQULBAcBAgMABQALHhB2SAsLVmdCa1QCCg8Q",
+      "bodyDumpedTo": "03-collector.bin"
+    },
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/xhr/api/v2/collector",
+      "bytes": 5492,
+      "preview": "payload=aUkQRhAIEGpjWURzSkZefkhzDxAeEFYQCEkQemdeRGMDVUdTelkPEAgQaW4QZktCV3dAQF1ACBJxU1xcXUYSQFdTVhJC",
+      "bodyDumpedTo": "04-collector.bin"
+    },
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/xhr/api/v2/collector",
+      "bytes": 2540,
+      "preview": "payload=aUkQRhAIEGpjWURzSkZefkhzDxAeEFYQCEkQemdeRGMDVUdTelkPEAgQaW4QZktCV3dAQF1ACBJxU1xcXUYSQFdTVhJC",
+      "bodyDumpedTo": "05-collector.bin"
+    },
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/xhr/api/v2/collector",
+      "bytes": 2540,
+      "preview": "payload=aUkQRhAIEGpjWURzSkZefkhzDxAeEFYQCEkQemdeRGMDVUdTelkPEAgQaW4QZktCV3dAQF1ACBJxU1xcXUYSQFdTVhJC",
+      "bodyDumpedTo": "06-collector.bin"
+    },
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/xhr/api/v2/collector",
+      "bytes": 2540,
+      "preview": "payload=aUkQRhAIEGpjWURzSkZefkhzDxAeEFYQCEkQemdeRGMDVUdTelkPEAgQaW4QZktCV3dAQF1ACBJxU1xcXUYSQFdTVhJC",
+      "bodyDumpedTo": "07-collector.bin"
+    },
+    {
+      "url": "https://www.bloomberg.com/8FCGYgk4/xhr/api/v2/collector",
+      "bytes": 2540,
+      "preview": "payload=aUkQRhAIEGpjWURzSkZefkhzDxAeEFYQCEkQemdeRGMDVUdTelkPEAgQaW4QZktCV3dAQF1ACBJxU1xcXUYSQFdTVhJC",
+      "bodyDumpedTo": "08-collector.bin"
+    }
+  ],
+  "verdictLabel": "CLEAN (article loaded)",
+  "bodyTextPreview": "Skip to content Bloomberg the Company & Its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote LoginBloomberg Customer Support Sign In Subscribe Live TV Markets Finance Economics Industries Tech Politics Businessweek Opinion Video More US Edition The AI Race: StanChart CEO Apology Heavy Job Losses AI Drug Development The Iran War and AI Bonanza or Bubble? OpenClaw Mania Technology DeepSeek To Make Permanent 75% Discount on Flagship AI Model Gift this article Add us on Google Contac",
+  "capturedAt": "2026-05-24T20:03:42.222Z"
+}
